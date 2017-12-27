@@ -37,12 +37,12 @@ form{
   left: 50%;
   top: 50%;
   z-index: 11;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   margin: -75px 0 0 -75px;
-  border: 16px solid #f3f3f3;
+  border: 5px solid #bd7070cc;
   border-radius: 50%;
-  border-top: 16px solid #64CEAA;
+  border-top: 10px solid rgba(16, 17, 17, 0.445);
   width: 80px;
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
@@ -62,8 +62,8 @@ form{
 
 h2 {
   text-align: center;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Lato', cursive;
   font-size: 30px;
   margin-top: 85px;
-  color: gray;
+  color: rgba(15, 10, 10, 0.514);
 }
